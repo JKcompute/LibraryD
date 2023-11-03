@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "Johnathon Karcz",
+    "email": "johnathon@karcz.work",
+    "description": "Johnathon is the one that is creating all these libs!",
+    "organization": {
+      "name": "Karcz, Inc.",
+      "email": "info@karcz.work",
+      "description": "Karcz, Inc. is not a real company.  I made it up.",
+      "url": "https://www.karcz.work"
+    },
+    "url": "https://www.karcz.family"
+  },
+  "description": "This is the initial release of this library",
+  "licenseURL": "https://github.com/JKcompute/LibraryD/blob/main/LICENSE",
+  "readmeURL": "https://github.com/JKcompute/LibraryD/blob/main/README.md",
+  "repositoryURLs": [
+    "https://github.com/JKcompute/LibraryD.git"
+  ]
+}
