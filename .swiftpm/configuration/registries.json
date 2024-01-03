@@ -1,0 +1,12 @@
+{
+  "authentication" : {
+
+  },
+  "registries" : {
+    "mono-test" : {
+      "supportsAvailability" : false,
+      "url" : "https://jkcompute.jfrog.io/artifactory/api/swift/swift"
+    }
+  },
+  "version" : 1
+}
